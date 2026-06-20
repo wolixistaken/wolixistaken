@@ -31,6 +31,11 @@ A **CNN regression** study on synthetic images, using **Optuna** for hyperparame
 
 `PyTorch` · `Optuna` · `NumPy`
 
+### ⌚ [patient-caregiver-monitor](https://github.com/wolixistaken/patient-caregiver-monitor)
+A cross-platform mobile app connecting **patients** and **caregivers**: a wearable streams data over **Bluetooth LE**, caregivers monitor patients remotely, and the app triggers **emergency SMS alerts**.
+
+`React Native` · `Firebase` · `Bluetooth LE` · `React Navigation`
+
 ---
 
 ## 🛠️ Tech & Tools
