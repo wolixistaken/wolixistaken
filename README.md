@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ilker.ilkay@std.yildiz.edu.tr">
-    <img src="https://img.shields.io/badge/Email-ilker.ilkay@std.yildiz.edu.tr-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ilker.ilkay@std.yildiz.edu.tr/ilkerilkay654@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
